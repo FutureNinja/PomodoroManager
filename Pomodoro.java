@@ -1,4 +1,3 @@
-//import Time.java
 
 public class Pomodoro {
 	private int pomodori;

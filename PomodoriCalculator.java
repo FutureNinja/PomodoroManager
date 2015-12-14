@@ -1,5 +1,3 @@
-//import Time.java;
-//import Pomodoro.java;
 import java.util.Scanner;
 
 public class PomodoriCalculator {
